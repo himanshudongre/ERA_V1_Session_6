@@ -41,3 +41,6 @@ Here we write an MNIST classifier model with following constraints:
 
 - Code for this is present [here](S6/ERA_Session_6.ipynb)
 
+Model Architecture:\
+![model](https://github.com/himanshudongre/ERA_V1_Session_6/assets/684175/27d10ce5-668e-4a3d-9da2-ec58a8d36619)
+
