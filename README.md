@@ -4,6 +4,8 @@
 Here we calculate backpropogation equations by hand for a small network as given below
 ![Network and Its backpropagation equations](S6/back_prop_calculation.jpg)
 
+- The excel sheet with the calculation is present [here](S6/backprop.xlsx)
+
 Below is the loss function graph when training the above neural network for different learning rates:
 - `Learning Rate = 0.1`\
 ![Error Function Graph With LR0.1](S6/Error_LR0.1.jpg)
@@ -35,5 +37,7 @@ Here we write an MNIST classifier model with following constraints:
 - You can use anything from above you want. 
 - Less than 20 Epochs
 - Have used BN, Dropout,
-- (Optional): a Fully connected layer, have used GAP. 
+- (Optional): a Fully connected layer, have used GAP.
+
+- Code for this is present [here](S6/ERA_Session_6.ipynb)
 
